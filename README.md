@@ -1,5 +1,5 @@
 # Image Processing Algorithms: Theory and Implementation
-This is a course project of M 348: Scientific Computation in Numerical Analysis at the University of Texas at Austin.
+This is a course project of M 348: Scientific Computation in Numerical Analysis done at the University of Texas at Austin.
 
 We use MATLAB to increase the contrast of an image, rotate an image, and also perform compression using SVD truncation.
 
